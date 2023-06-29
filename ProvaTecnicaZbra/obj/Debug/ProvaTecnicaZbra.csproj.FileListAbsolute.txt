@@ -1,0 +1,14 @@
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\ProvaTecnicaZbra.exe
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\ProvaTecnicaZbra.pdb
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\FluentValidation.dll
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\FluentValidation.xml
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.csproj.AssemblyReference.cache
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.csproj.SuggestedBindingRedirects.cache
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.csproj.CoreCompileInputs.cache
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.csproj.CopyComplete
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.exe
+C:\github\pereirfa_2023-06-28\ProvaTecnicaZbra\obj\Debug\ProvaTecnicaZbra.pdb

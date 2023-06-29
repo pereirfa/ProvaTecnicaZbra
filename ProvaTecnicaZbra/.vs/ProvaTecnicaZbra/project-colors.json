@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ef34fcf-1406-478a-8673-ca76a6900fa1": {
+      "ProjectGuid": "7ef34fcf-1406-478a-8673-ca76a6900fa1",
+      "DisplayName": "ProvaTecnicaZbra",
+      "ColorIndex": 0
+    },
+    "8bebfadc-9522-43d7-842b-0bef020fc2b3": {
+      "ProjectGuid": "8bebfadc-9522-43d7-842b-0bef020fc2b3",
+      "DisplayName": "Zbr.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
